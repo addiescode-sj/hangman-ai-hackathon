@@ -1,0 +1,26 @@
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Competition data (large, not for commit)
+open/
+
+# Outputs / artifacts
+*.zip
+*.pkl
+*.joblib
+*.parquet
+*.log
+plans/scratch/
+
+# Claude Code local state
+.claude/current_task
+.claude/settings.local.json
