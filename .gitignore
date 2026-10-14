@@ -24,3 +24,6 @@ plans/scratch/
 # Claude Code local state
 .claude/current_task
 .claude/settings.local.json
+
+# Scratch notebooks
+test.ipynb
